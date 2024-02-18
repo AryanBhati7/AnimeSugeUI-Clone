@@ -1,0 +1,396 @@
+*,
+*::before,
+*::after {
+box-sizing: border-box;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Pathway+Extreme:opsz,wght@8..144,100&display=swap');
+
+body{
+    background-color: #161616;
+    overflow-x: hidden;
+    /* scrollbar-color: #e50914 #161616; */
+    scroll-behavior: auto;
+}
+*{
+    margin : 0px;
+    padding: 0px;
+}
+a{
+    text-decoration: none;
+}
+
+.header_main_box{
+    display : flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    width : 100%;
+    height: 101px;
+    padding-left: 5px;
+}
+.logo{
+    margin : 0px;
+    width: 480px;
+    height : 39px;
+}
+.header_main_box .logo img{
+    width: 119px;
+    height: 39px;
+    margin: 10px;
+    position: absolute;
+    left : 80px;
+    top:23px;
+}
+.headerlinks{
+    width: 767px;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerlinks a{
+    font-family: 'Pathway Extreme', sans-serif;
+    font-size: 15px;
+    color: white;
+    opacity: 0.8;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: extra-expanded;  
+}
+
+.header_main_box .language{
+    display:inline-flex;
+    position: relative;
+    top : 12px;
+    left : 25px;
+    width: 73px;
+    height: 45px ;
+    cursor: pointer;
+}
+.header_main_box .language .en, .jp{
+    position: relative;
+    bottom: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 37px;
+    height: 30px;
+    font-family: 'Pathway Extreme', sans-serif;
+    font-size: 13px;
+    color : white
+}
+.header_main_box .language .en{
+    background-color: #e50914;
+    color : white
+}
+
+.header_main_box .language .jp{
+    background-color: #2d2d2d;
+    color : white
+}
+.header_main_box .userbox{
+    position: relative;
+    left: 38px;
+    bottom: 2px;
+}
+.header_main_box .userbox a{
+    color : white;
+    font-family: 'Pathway Extreme', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+.homebox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width : 100%;
+    height: 610px;
+    padding-left : 15px;
+    padding-right : 15px;
+}
+.homebox .homebanner{
+    width: 1340px;
+    height: 180px;
+    background-image: url(homecover.jpg);
+    background-size: cover;
+}
+.homebox .searchbar{
+    width: 750px;
+    height: 62px;
+    background-color: white;
+    position: absolute;
+    top : 250px;
+    left : 395px;
+    display: flex;
+    align-items: center;
+    padding: 0px 15px;
+}
+.homebox .searchbar img{
+    position: absolute;
+    left : 15px;
+    width: 35px;
+    height: 35.5px;
+}
+.homebox .searchbar input{
+    background-color: white;
+    border: none;
+    position: absolute;
+    left: 52px;
+    font-size: 20px;
+    font-family: 'Pathway Extreme', sans-serif;
+    font-weight: lighter;
+}
+.homebox .searchbar .filter{
+    width: 75px;
+    height: 37.5px;
+    background-color: #e50914;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right : 12px;
+    border-radius: 3px;
+}
+.homebox .searchbar .filter a{
+    color : white;
+    background-color: #e50914;
+    font-family: 'Pathway Extreme', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 23px;
+}
+.homebox .Enter_button{
+    width: 193px;
+    height: 48px;
+    background-color: white;
+    position: relative;
+    top:60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1b1b1b;
+    border : 1px solid white;
+    color: white;
+}
+#Enterbutton{
+    color :  white;
+    font-family: 'Pathway Extreme', sans-serif;
+    font-weight: 400;
+    font-size : 15px;
+    line-height: 23px;
+    text-align: center;
+}
+.homebox .homepage_Description{
+    font-family: 'Pathway Extreme', sans-serif;
+    width: 890px;
+    height: 171px;
+    position: relative;
+    top : 100px;
+    text-align: left;
+}
+#content_title{
+    color : white;
+    font-weight : 500;
+    font-size: 17px;
+    line-height: 20px;
+}
+.content{
+    position: relative;
+    top : 8px;
+    font-size : 16px;
+    font-weight: 400;
+    line-height: 23px;
+    color: #6d6d6d;
+}
+.Schedule-Button{
+    width : 121px;
+    height: 31px;
+    background-color: red;
+    color: white;
+    display : flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    transform: rotate(-90deg);
+    position: fixed;
+    left : 0px;
+    font-family: 'Pathway Extreme', sans-serif;
+    font-size : 15px;
+    line-height: 23px;
+    font-weight: 400;
+
+}
+.Schedule-Button img{
+    width: 24px;
+    height: 24px;
+}
+.Socials{
+    width : 890px;
+    height: 34.7px;
+    display: flex;
+    position: relative;
+    top : 75px;
+}
+
+.Socials .shares{
+    width: 62px;
+    height: 34px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 17px;
+    color: #555555;
+    background-color: #161616;
+    text-align: center;
+    line-height: 1;
+}
+.Socials .shares #shares{
+    font-size: 10px ;
+}
+.Socials div{
+    width: 120px;
+    height: 34px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Helvetica Neue", Verdana, Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    margin-right: 2px;
+    margin-left: 2px;
+    cursor : pointer;
+}
+
+.Socials i{
+    height: 16px;
+    width: 16px;
+    position: relative;
+    right : 10px;
+    top : 2px;
+}
+.Socials .fb{
+    background-color: #395793;
+}
+.Socials .x{
+    background-color: black;
+}
+.Socials .messenger{
+    background-color: #4c86e4;
+}
+.Socials .reddit{
+    background-color: #FE4500;
+}
+.Socials .whatsapp{
+    background-color: #25D366;
+}
+
+.Socials .telegram{
+    background-color: #0088CC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.homebox .go-top{
+    width: 150px;
+    height: 40px;
+    position: relative;
+    top : 130px;
+    background-color: #161616;
+    border: grey;
+    color : rgba(255, 255, 255,0.2);
+    cursor: pointer;
+}
+
+.homebox .go-top a{
+    font-size: 15px;
+    font-stretch:narrower;
+    font-weight: 100;
+    font-family: 'Pathway Extreme', sans-serif; 
+    text-align: center;
+    color : rgba(255, 255, 255,0.2);
+}
+.homebox .go-top i{
+    position: relative;
+    color : rgba(255, 255, 255,0.2);
+}
+
+
+hr{
+    border : 1px solid rgba(255, 255, 255,0.2)
+}
+
+.toplinks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top : 20px;
+    width: 1340px;
+    height: 24.75px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+.toplinks a{
+    font-family: 'Pathway Extreme', sans-serif;
+    font-size: 17px;
+    color: white;
+    opacity: 0.8;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: extra-expanded;  
+    margin-left: 3rem;
+}
+.bottom-info-row{
+    display: flex;
+    margin-top : 35px;
+    margin-bottom: 50px;
+}
+.copyright{
+    width: 570px;
+    height: 39px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.copyright img{
+    width: 114px;
+    height : 37px;
+}
+.copyright span{
+    color : rgba(255, 255, 255,0.2);
+    position: relative;
+    left : 20px;
+    font-family: 'Pathway Extreme', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+}
+.Madewithlove{
+    width: 800px;
+    height: 40px;
+    font-family: 'Pathway Extreme', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    color : rgba(255, 255, 255,0.2);
+}
+.Madewithlove .madewith{
+    position: absolute;
+    right : 6rem;
+}
+.Madewithlove .Disclaimer{
+    font-family: 'Pathway Extreme', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    color : rgba(255, 255, 255,0.2);
+    position: relative;
+    top: 20px;
+    right: -212px;
+}
