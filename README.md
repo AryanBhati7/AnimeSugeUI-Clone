@@ -7,15 +7,20 @@ This project is a clone of the AnimeSurge user interface, built using HTML and V
 ## Table of Contents
 
 - [Project Structure](#project-structure)
-- [Hosted Website Link](#link)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Setup and Usage](#setup-and-usage)
-- [Contributing](#contributing)
-- [Authors](#authors)
-- [Acknowledgements](#acknowledgements)
+- [Technologies Used](#technologies-used-)
+- [Deployed Link](#deployed-link-)
+- [Description](#description-)
+- [Features](#features-)
+- [Screenshot](#screenshot-)
+- [Getting Started](#getting-started-)
+- [Usage](#usage-)
+- [Contributing](#contributing-)
+- [Acknowledgments](#acknowledgments-)
 
+## Project Structure
 
+- **index.html**: The main HTML file representing the home page.
+- **styles.css**: The CSS file containing the styles for the page.
 
 ## Technologies Used 🛠️
 
