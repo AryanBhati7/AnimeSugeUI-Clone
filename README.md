@@ -21,7 +21,6 @@ The AnimeSurge UI Clone is a static website that replicates the design and layou
 
 ## Features 💫
 
-- Responsive design for optimal viewing on different devices
 - Navigation menu for easy access to different sections
 - Anime heading picture
 - Footer with additional information
