@@ -59,5 +59,6 @@ As this project was created for learning purposes, contributions are not accepte
 
 ## Acknowledgments 🙏
 
-- The design and layout inspiration came from the official AnimeSurge website. 👩‍💻👨‍💻
-- You can check them out at : https://animesuge.to/
+- The design and layout inspiration came from the official AnimeSurge website 👩‍💻
+- You can check them out at : https://animesuge.to/ 🌐
+- Thanks to Vercel for their easy deployment service 🚀
