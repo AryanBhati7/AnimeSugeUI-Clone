@@ -3,7 +3,8 @@
 This project is a clone of the AnimeSurge user interface, built using HTML and Vanilla CSS. It was created as a learning exercise to practice the fundamentals of web development. 💻
 
 ## Screenshot 📸
-![Screenshot](./ss_gif.gif)
+<!-- ![Screenshot](./ss_gif.gif) -->
+<img src="ss_gif.gif" width="100%" alt="ss_gif">
 
 ## Deployed Link :
 
