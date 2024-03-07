@@ -27,8 +27,7 @@ The AnimeSurge UI Clone is a static website that replicates the design and layou
 
 ## Screenshot 📸
 ![Screenshot](./ss_clone.png)
-
-  <img src="readme_imgs/ss_clone.png" height="250" width="400" alt="ss_clone"  />
+The website is hosted at: [AnimeSurge Clone](https://animesurge-clone.vercel.app)
 
 ## Getting Started 🚀
 
