@@ -26,6 +26,16 @@ The AnimeSurge UI Clone is a static website that replicates the design and layou
 - Anime heading picture
 - Footer with additional information
 
+## Screenshots 📸
+
+  <img src="readme_img/ss_org.png" height="220" width="350" alt="ss_org"/>
+  Original
+  <img src="readme_img/ss_clone.png" height="220" width="350" alt="ss_clone"  />
+  Clone
+
+
+The AnimeSurge UI Clone is a static website that replicates the design and layout of the popular anime streaming platform, AnimeSurge. It aims to provide a similar user experience as the original website, with a clean and responsive interface. 📱💻
+
 ## Getting Started 🚀
 
 To run the project locally, follow these steps:
