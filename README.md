@@ -28,8 +28,6 @@ The AnimeSurge UI Clone is a static website that replicates the design and layou
 
 ## Screenshots 📸
 
-  <img src="readme_imgs/ss_org.png" height="220" width="350" alt="ss_org"/>
-  Original
   <img src="readme_imgs/ss_clone.png" height="220" width="350" alt="ss_clone"  />
   Clone
 
