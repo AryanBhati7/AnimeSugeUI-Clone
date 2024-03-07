@@ -4,6 +4,13 @@
 
 This project is a clone of the AnimeSurge user interface, built using HTML and Vanilla CSS. It was created as a learning exercise to practice the fundamentals of web development. 💻
 
+## Screenshot 📸
+![Screenshot](./ss_clone.png)
+
+## Deployed Link :
+
+The website is hosted at : 👉 [AnimeSurge Clone](https://animesurge-clone.vercel.app)
+ 
 ## Table of Contents
 
 - [Project Structure](#project-structure)
@@ -27,10 +34,7 @@ This project is a clone of the AnimeSurge user interface, built using HTML and V
 - HTML
 - CSS
 
-## Deployed Link :
 
-The website is hosted at : 👉 [AnimeSurge Clone](https://animesurge-clone.vercel.app)
- 
 You can check out my clone at the link provided above. 👆
 
 ## Description 📝
@@ -42,10 +46,6 @@ The AnimeSurge UI Clone is a static website that replicates the design and layou
 - Navigation menu for easy access to different sections
 - Anime heading picture
 - Footer with additional information
-
-## Screenshot 📸
-![Screenshot](./ss_clone.png)
-
 
 ## Getting Started 🚀
 
