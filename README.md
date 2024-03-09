@@ -26,15 +26,12 @@ The website is hosted at : 👉 [AnimeSuge Clone](https://animesuge-clone.vercel
 ## Project Structure
 
 - **index.html**: The main HTML file representing the home page.
-- **styles.css**: The CSS file containing the styles for the page.
+- **style.css**: The CSS file containing the styles for the page.
 
 ## Technologies Used 🛠️
 
 - HTML
 - CSS
-
-
-You can check out my clone at the link provided above. 👆
 
 ## Description 📝
 
