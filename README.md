@@ -1,14 +1,14 @@
 # AnimeSurge UI Clone 🎬
 
-This project is a clone of the AnimeSurge user interface, built using HTML and Vanilla CSS. It was created as a learning exercise to practice the fundamentals of web development. 💻
+This project is a clone of the AnimeSuge user interface, built using HTML and Vanilla CSS. It was created as a learning exercise to practice the fundamentals of web development. 💻
 
 ## Screenshot 📸
-<!-- ![Screenshot](./ss_gif.gif) -->
+
 <img src="ss_gif.gif" width="100%" alt="ss_gif">
 
 ## Deployed Link :
 
-The website is hosted at : 👉 [AnimeSurge Clone](https://animesurge-clone.vercel.app)
+The website is hosted at : 👉 [AnimeSuge Clone](https://animesuge-clone.vercel.app)
  
 ## Table of Contents
 
@@ -38,7 +38,7 @@ You can check out my clone at the link provided above. 👆
 
 ## Description 📝
 
-The AnimeSurge UI Clone is a static website that replicates the design and layout of the popular anime streaming platform, AnimeSurge. It aims to provide a similar user experience as the original website, with a clean and responsive interface. 📱💻
+The AnimeSuge UI Clone is a static website that replicates the design and layout of the popular anime streaming platform, AnimeSuge. It aims to provide a similar user experience as the original website, with a clean and responsive interface. 📱💻
 
 ## Features 💫
 
@@ -53,13 +53,13 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/AnimeSurge-UI-Clone.git
+git clone https://github.com/your-username/AnimeSuge-UI-Clone.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd AnimeSurge-UI-Clone
+cd AnimeSuge-UI-Clone
 ```
 
 3. Open the `index.html` file in your preferred web browser.
@@ -75,7 +75,7 @@ As this project was created for learning purposes, contributions are not accepte
 
 ## Acknowledgments 🙏
 
-- The design and layout inspiration came from the official AnimeSurge website 👩‍💻
-- You can check them out at : https://animesuge.to/ 🌐
+- The design and layout inspiration came from the official AnimeSuge website 👩‍💻
+- You can check them out at : [AnimeSuge](https://animesuge.to/) 🌐
 - Thanks to Vercel for their easy deployment service 🚀
 - Thanks to Shradha Mam and Alpha College for their great tutorials 😊
